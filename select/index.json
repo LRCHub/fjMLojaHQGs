@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "フラッシュバック",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2025-12-07T06:17:58.189469Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flash Back [フラッシュバック]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_Flash_Back_[フラッシュバック]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フラッシュバック",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_フラッシュバック_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flashback (フラッシュバック Furasshubakku)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_Flashback_(フラッシュバック_Furasshubakku)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フラッシュバック",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/04_フラッシュバック_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フラッシュバック",
+      "artist": "キュウソネコカミ",
+      "has_synced": true,
+      "path": "select/05_フラッシュバック_キュウソネコカミ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フラッシュバック、夏。",
+      "artist": "Rhymester",
+      "has_synced": true,
+      "path": "select/06_フラッシュバック、夏。_Rhymester.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フラッシュバック ‐digital grain mix‐",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": true,
+      "path": "select/07_フラッシュバック_‐digital_grain_mix‐_HIGH_and_MIGHTY_COLOR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "フラッシュバック -digital grain mix-",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": true,
+      "path": "select/08_フラッシュバック_-digital_grain_mix-_HIGH_and_MIGHTY_COLOR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "フラッシュバック",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": true,
+      "path": "select/09_フラッシュバック_HIGH_and_MIGHTY_COLOR.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Andora - Flashback (feat. RANASOL) MV 『フラッシュバック』",
+      "artist": "Andora",
+      "has_synced": true,
+      "path": "select/10_Andora_-_Flashback_(feat._RANASOL)_MV_『フラッシュバック』_Andora.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "フラッシュバック、夏。 - Flashback,Summer",
+      "artist": "RHYMESTER",
+      "has_synced": true,
+      "path": "select/11_フラッシュバック、夏。_-_Flashback,Summer_RHYMESTER.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "サヨナラ！フラッシュバック！",
+      "artist": "カラスは真っ白",
+      "has_synced": true,
+      "path": "select/12_サヨナラ!フラッシュバック!_カラスは真っ白.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フラッシュバック",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_フラッシュバック_DUSTCELL.txt"
+    }
+  ]
+}
